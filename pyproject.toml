@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "hexlet-pytest"
+version = "0.1.0"
+description = ""
+authors = ["Alexey <yakor.alex@gmail.com>"]
+readme = "README.md"
+packages = [{include = "hexlet_pytest"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+colorama = "^0.4.6"
+ipython = "^8.10.0"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.2.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,1 @@
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) [![Actions Status](https://github.com/YAV88/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/YAV88/hexlet_pytest/actions)

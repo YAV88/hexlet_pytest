@@ -1,1 +1,1 @@
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) [![Actions Status](https://github.com/YAV88/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/YAV88/hexlet_pytest/actions)
+[![Actions Status](https://github.com/YAV88/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/YAV88/hexlet_pytest/actions)![This is an image](https://i.pinimg.com/564x/5a/f2/88/5af288245c3f41f22a5da31d9871aa5a--russia-cartoons.jpg)

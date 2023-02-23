@@ -1,7 +1,11 @@
 .idea/
+
 __pycache__
+
 dist/
-*.pyc
+
 .venv/
+
 .pytest_cache/
-.vim
+
+poetry.lock
